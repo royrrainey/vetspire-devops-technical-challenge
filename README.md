@@ -10,9 +10,6 @@ This interview will test Terraform and Kubernetes knowledge and ability.
 You have been given a private repo and added to it. Now, make a commit for each
 of the sections in this interview (infra, kubernetes and kustomize).
 
-When you finish, please invite `tomasz-tomczyk` (GH username) to the repo and
-let us know you've completed it.
-
 Try your best and have fun!
 
 ## Pre-requisites
